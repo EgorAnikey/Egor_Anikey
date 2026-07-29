@@ -4,64 +4,68 @@ Frontend developer, **7+ years** experience
 
 [LinkedIn](https://www.linkedin.com/in/egor-anikey/)
 
-[Github](https://github.com/EgorAnikey)
-
 ## ABOUT
 
-Frontend developer with **7+ years of commercial experience** specializing in React and TypeScript. Worked effectively in both small, fast-moving teams and larger cross-functional teams of up to 15 people. Built products from scratch and modernized large production platforms across IoT, AI, Web3, telecommunications, and real estate. Covered the full frontend development cycle, from requirements and architecture to testing, release, and production support.
+Frontend developer with **7+ years of commercial experience**, working in small product teams and cross-functional teams of up to 15 members. Have around **9 months of team-leading experience**. Covered the full development cycle: from gathering requirements and choosing architecture to testing, release and production support. Built products in IoT, AI, Web3, telecommunications and real estate.
 
-Built a React component library from scratch with 50+ components used by 7 teams and 20+ developers. Migrated a large SSR application from React 18 to React 19, introduced TypeScript across the codebase, and replaced Webpack with Vite. Acted as a **frontend team lead** during the development of a Telegram Mini App and delivered real-time interfaces, payments, authentication, analytics, animations, and third-party integrations. Focused on building maintainable frontend systems and making complex products clear and easy to use.
+Strong in complex web applications, reusable UI systems and real-time user flows. Worked with payments, authentication, analytics, animations and third-party integrations. In addition to core frontend work, built **AI-powered features** and used AI tools to speed up research, debugging, testing and documentation, while manually checking every final change.
 
 ## SKILLS
 
-**Frontend:** JavaScript, TypeScript, React, React Router, Zustand, MobX, Vue, Angular, HTML5, CSS3/SCSS, MUI, responsive and adaptive UI, SPA, design systems, reusable component libraries, Storybook, WebSockets/Socket.IO.
+**Frontend:** JavaScript, TypeScript, React, React Router, Zustand, MobX, Vue, Angular, MUI, SCSS, design systems, component libraries, Storybook, WebSockets
 
-**Testing & Tools:** Jest, Vitest, React Testing Library, Cypress, Playwright, Storybook, Chromatic, Vite, Webpack, Git, Docker, Jira, Figma.
+**AI:** ChatGPT, Claude, Gemini, Cursor, GitHub Copilot, OpenAI API, OpenAI SDK, AWS Transcribe
 
-**Other:** Node.js, Express.js, NestJS, REST APIs, Swagger/OpenAPI, PostgreSQL, MongoDB, Redis, AWS, Stripe, Web3. [URL 🔗](http://socket.io)
+**Testing & Tools:** Jest, Vitest, React Testing Library, Cypress, Playwright, Chromatic, Vite, Webpack, Docker
+
+**Backend & Other:** Node.js, Express.js, NestJS, REST APIs, PostgreSQL, MongoDB, Redis, AWS, Stripe, Web3
 
 ## EXPERIENCE
 
-## KLIKA TECH: 11/2023 – 07/2026, 2 YEARS 9 MONTHS [URL 🔗](https://klika-tech.com/)
+## KLIKA TECH: 11/2023 – 07/2026, ~3 YEARS [URL 🔗](https://klika-tech.com/)
 
 - Built **50+** React screens for an IoT platform used to manage residents, staff, connected devices and apartment services
 
-- Built role and permission flows for 3 main actions: granting, revoking and sharing access across different parts of the platform
+- Developed role and permission flows for granting, revoking and sharing access across different parts of the platform
 
-- Moved a large SSR application from React 18 to React 19 and converted **100%** of the JavaScript codebase to TypeScript while the team continued regular releases
+- Upgraded a large SSR application from React 18 to React 19 and converted the full JavaScript codebase to TypeScript while the team continued regular releases
 
-- Replaced Webpack with Vite, cutting local startup and rebuild times by about **28%**
+- Replaced Webpack with Vite, reducing local startup and rebuild times by about **28%**
 
-- Built a React component library from scratch with **59** components. It was used by 7 teams, 2 products and 21+ developers, and reduced the time needed to build standard screens by about **18%**
+- Created a React component library with **59 components** used across 2 products by 7 teams and 21+ developers, reducing the time needed to build standard screens by about **18%**
 
-- Added automated tests and visual checks for every library component, cutting the number of visual bugs found after release by about **23%**
+- Added automated tests and visual regression checks for every library component, reducing visual bugs found after release by about **23%**
 
-**Technologies:** React 18/19, TypeScript, SSR, React Testing Library, Storybook, Chromatic, Vitest, Vite, Webpack, SCSS
+- Created structured Markdown guides for the component library, reducing repeated AI context and speeding up test preparation, debugging and initial code review
+
+**Technologies:** React 18/19, TypeScript, SSR, React Testing Library, Storybook, Chromatic, Vitest, Vite, Webpack, SCSS, GitHub Copilot, Claude.
 
 
-## OWL’S GROUP: 02/2022 – 10/2023, 1 YEAR 9 MONTHS [URL 🔗](https://owlsgroup.net/)
+## OWL’S GROUP: 02/2022 – 10/2023, ~2 YEARS [URL 🔗](https://owlsgroup.net/)
 
-- Built and launched 2 React and TypeScript applications from scratch for rental property and office telephony products
+- Built and launched 2 React and TypeScript applications from scratch and created reusable UI components, reducing the time needed to build new product screens by about **21%**
 
-- Led the frontend work on a Telegram Mini App, planned tasks, reviewed pull requests, worked with design and backend teams and made key technical decisions
+- Served as a frontend team lead for about **9 months** on a Telegram Mini App, planned tasks, reviewed pull requests, coordinated work with design and backend teams and made key technical decisions
 
-- Built a real-time React workspace for 3 CRM workflows: calls, customer profiles and communication history
+- Combined calls, customer profiles and communication history in one real-time React workspace, reducing tool-switching time by about **17%**
 
-- Implemented 4 key flows for a rental platform and added **3 external services** - Stripe, Google and Facebook - for payments, subscriptions and authentication
+- Built an AI chat assistant that answered user questions and saved conversation history, reducing repeated user requests by about **13%**
 
-- Built a design system, component library and onboarding flow for Storykube, cutting the time spent on repeated UI work by about **17%**
+- Added AI features to a nutrition application, including meal photo analysis, calorie and macronutrient tracking, transcription, summaries and personalized follow-ups
 
-**Technologies:** React, TypeScript, React Router, Zustand, MUI, Socket.IO, WebSockets, Stripe, Storybook, Vue 3, Node.js, Express.js, AWS, PostgreSQL, SCSS
+- Implemented 4 key rental-platform flows and integrated Stripe, Google and Facebook for payments, subscriptions and authentication
 
-## DEIP: 04/2019 – 01/2022, 2 YEARS 10 MONTHS [URL 🔗](https://www.linkedin.com/company/deip/)
+**Technologies:** React, TypeScript, React Router, Zustand, MUI, Socket.IO, WebSockets, OpenAI API, OpenAI SDK, AWS Transcribe, Stripe, Storybook, Vue 3, Node.js, Express.js, AWS, PostgreSQL, SCSS
 
-- Worked on 3 frontend products across Web3, digital asset valuation and online education: ORIP, Vedai and Casimir
+## DEIP: 04/2019 – 01/2022, ~3 YEARS [URL 🔗](https://www.linkedin.com/company/deip/)
 
-- Built a React dashboard for 3 main areas: transaction history, digital asset management and real-time status updates
+- Built frontend features for 3 products in Web3, digital asset valuation and online education: ORIP, Vedai and Casimir
 
-- Helped build Casimir and worked on 2 shared package groups, @deip and @casimir, allowing teams to launch new Web3 portals without rebuilding common features
+- Created a React dashboard for transaction history, digital asset management and real-time status updates
 
-- Split large legacy screens into smaller modules and reusable components, cutting duplicate frontend code by about **24%**
+- Contributed to the shared @deip and @casimir packages, allowing teams to launch new Web3 portals without rebuilding common functionality
+
+- Split large legacy screens into smaller modules and reusable components, reducing duplicate frontend code by about **24%**
 
 - Added TypeScript step by step to existing applications and shared packages, improving type safety without rewriting the whole codebase
 
