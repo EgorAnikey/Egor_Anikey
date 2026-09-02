@@ -4,7 +4,7 @@ Software Developer, **7+ years** experience
 
 +48 451 251 818 · GMT+1
 
-[LinkedIn](https://www.linkedin.com/in/egor-anikey/) · [GitHub](https://github.com/EgorAnikey/Egor_Anikey/tree/main)
+[LinkedIn](https://www.linkedin.com/in/egor-anikey/)
 
 ## ABOUT
 
