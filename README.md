@@ -1,75 +1,86 @@
-Frontend developer, **7+ years** experience
+Software Developer, **7+ years** experience
 
 [anikey.egor99@gmail.com](mailto:anikey.egor99@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/egor-anikey/)
++48 451 251 818 · GMT+1
+
+[LinkedIn](https://www.linkedin.com/in/egor-anikey/) · [GitHub](https://github.com/EgorAnikey/Egor_Anikey/tree/main)
 
 ## ABOUT
 
-Frontend developer with **7+ years of commercial experience**, working in small product teams and cross-functional teams of up to 15 members. Have around **9 months of team-leading experience**. Covered the full development cycle: from gathering requirements and choosing architecture to testing, release and production support. Built products in IoT, AI, Web3, telecommunications and real estate.
+Full-stack developer with **7+ years of commercial experience**, working with Node.js, TypeScript, React and Vue in small product teams and cross-functional teams of up to 15 members. Have around **9 months of team-leading experience**. Covered the full development cycle: from gathering requirements and choosing architecture to frontend and backend development, testing, release and production support.
 
-Strong in complex web applications, reusable UI systems and real-time user flows. Worked with payments, authentication, analytics, animations and third-party integrations. In addition to core frontend work, built **AI-powered features** and used AI tools to speed up research, debugging, testing and documentation, while manually checking every final change.
+Strong in Node.js backend services, React and Vue applications, real-time systems and event-driven architecture. Built REST APIs, WebSocket flows, Kafka-based services, background jobs and integrations with payments, authentication and **AI services**. Worked with PostgreSQL, MongoDB, DynamoDB and Redis, as well as AWS infrastructure and serverless functions.
 
 ## SKILLS
 
-**Frontend:** JavaScript, TypeScript, React, React Router, Zustand, MobX, Vue, Angular, MUI, SCSS, design systems, component libraries, Storybook, WebSockets
+**Backend:** Node.js, TypeScript, NestJS, Express.js, Fastify, Koa.js, REST APIs, WebSockets, Socket.IO, microservices
 
-**AI:** ChatGPT, Claude, Gemini, Cursor, GitHub Copilot, OpenAI API, OpenAI SDK, AWS Transcribe
+**Frontend:** React, Next.js, Vue 2, Vue 3, Nuxt, Angular, React Router, Vue Router, Zustand, Pinia, Vuex, MUI, Vuetify
 
-**Testing & Tools:** Jest, Vitest, React Testing Library, Cypress, Playwright, Chromatic, Vite, Webpack, Docker
+**Data & Messaging:** PostgreSQL, MongoDB, DynamoDB, Redis, Kafka, BullMQ, NATS, Prisma, TypeORM
 
-**Backend & Other:** Node.js, Express.js, NestJS, REST APIs, PostgreSQL, MongoDB, Redis, AWS, Stripe, Web3
+**AI, Integrations & Tools:** OpenAI API, OpenAI SDK, AWS Transcribe, Stripe, Jest, Vitest, Supertest, Playwright, Docker, AWS, AWS Lambda, Swagger, Vite, Webpack
 
 ## EXPERIENCE
 
-## KLIKA TECH: 11/2023 – 07/2026, ~3 YEARS [URL 🔗](https://klika-tech.com/)
+## KLIKA TECH: 11/2023 – 08/2026, ~3 YEARS [URL 🔗](https://klika-tech.com/)
 
-- Built **50+** React screens for an IoT platform used to manage residents, staff, connected devices and apartment services
+- Built **50+** Vue screens for an IoT platform used to manage residents, staff, connected devices and apartment services
 
-- Developed role and permission flows for granting, revoking and sharing access across different parts of the platform
+- Developed and maintained features in an existing React application and moved selected functionality to the new Vue platform
 
-- Upgraded a large SSR application from React 18 to React 19 and converted the full JavaScript codebase to TypeScript while the team continued regular releases
+- Upgraded a large SSR application from Vue 2 to Vue 3 and converted the JavaScript codebase to TypeScript while the team continued regular releases
 
-- Replaced Webpack with Vite, reducing local startup and rebuild times by about **28%**
+- Built Node.js backend APIs with NestJS and Express.js using PostgreSQL, Redis and WebSockets
 
-- Created a React component library with **59 components** used across 2 products by 7 teams and 21+ developers, reducing the time needed to build standard screens by about **18%**
+- Implemented Kafka-based asynchronous communication between backend services for application event processing
 
-- Added automated tests and visual regression checks for every library component, reducing visual bugs found after release by about **23%**
+- Replaced Webpack with Vite, reducing local startup and rebuild times by about **95%**
 
-- Created structured Markdown guides for the component library, reducing repeated AI context and speeding up test preparation, debugging and initial code review
+- Created a Vue component library with **59 components** used across 2 products by 7 teams and 21+ developers, reducing the time needed to build standard screens by about **18%**
 
-**Technologies:** React 18/19, TypeScript, SSR, React Testing Library, Storybook, Chromatic, Vitest, Vite, Webpack, SCSS, GitHub Copilot, Claude.
+- Added automated tests and visual regression checks for the component library, reducing visual bugs found after release by about **23%**
 
+**Technologies:** Node.js, TypeScript, NestJS, Express.js, PostgreSQL, Redis, Kafka, WebSockets, React, Vue 2, Vue 3, Pinia, Vuex, SSR, Storybook, Vitest, Vite, Webpack, SCSS
 
 ## OWL’S GROUP: 02/2022 – 10/2023, ~2 YEARS [URL 🔗](https://owlsgroup.net/)
 
-- Built and launched 2 React and TypeScript applications from scratch and created reusable UI components, reducing the time needed to build new product screens by about **21%**
+- Built and launched React and Vue applications from scratch with Node.js and TypeScript backends
+
+- Built REST APIs with NestJS and Express.js using PostgreSQL, MongoDB and DynamoDB
+
+- Implemented Kafka-based event flows between backend services for asynchronous processing and service communication
+
+- Built real-time chat and calling features with Socket.IO, including message delivery, call events and live status updates
+
+- Implemented AWS Lambda functions for background processing and backend integrations
+
+- Built SSR applications with Next.js and Nuxt, including routing, server-side data fetching and reusable React and Vue components
 
 - Served as a frontend team lead for about **9 months** on a Telegram Mini App, planned tasks, reviewed pull requests, coordinated work with design and backend teams and made key technical decisions
 
-- Combined calls, customer profiles and communication history in one real-time React workspace, reducing tool-switching time by about **17%**
+- Built **AI-powered features** for chat, transcription, summaries and personalized follow-ups
 
-- Built an AI chat assistant that answered user questions and saved conversation history, reducing repeated user requests by about **13%**
+- Integrated Stripe, Google and Facebook for payments, subscriptions and authentication
 
-- Added AI features to a nutrition application, including meal photo analysis, calorie and macronutrient tracking, transcription, summaries and personalized follow-ups
-
-- Implemented 4 key rental-platform flows and integrated Stripe, Google and Facebook for payments, subscriptions and authentication
-
-**Technologies:** React, TypeScript, React Router, Zustand, MUI, Socket.IO, WebSockets, OpenAI API, OpenAI SDK, AWS Transcribe, Stripe, Storybook, Vue 3, Node.js, Express.js, AWS, PostgreSQL, SCSS
+**Technologies:** Node.js, TypeScript, NestJS, Express.js, PostgreSQL, MongoDB, DynamoDB, Redis, Kafka, Socket.IO, WebSockets, AWS, AWS Lambda, React, Next.js, Vue 2, Vue 3, Nuxt, OpenAI API, AWS Transcribe, Stripe
 
 ## DEIP: 04/2019 – 01/2022, ~3 YEARS [URL 🔗](https://www.linkedin.com/company/deip/)
 
-- Built frontend features for 3 products in Web3, digital asset valuation and online education: ORIP, Vedai and Casimir
+- Built React and Vue features for 3 products in Web3, digital asset valuation and online education
 
-- Created a React dashboard for transaction history, digital asset management and real-time status updates
+- Implemented Node.js and Koa.js backend services with MongoDB using an architecture based on CQRS principles
 
-- Contributed to the shared @deip and @casimir packages, allowing teams to launch new Web3 portals without rebuilding common functionality
+- Built frontend and backend functionality for transaction history, digital asset management and real-time status updates
 
-- Split large legacy screens into smaller modules and reusable components, reducing duplicate frontend code by about **24%**
+- Contributed to the shared `@deip` and `@casimir` packages, allowing teams to launch new Web3 portals without rebuilding common functionality
+
+- Split large legacy modules and screens into smaller reusable parts, reducing duplicate frontend code by about **24%**
 
 - Added TypeScript step by step to existing applications and shared packages, improving type safety without rewriting the whole codebase
 
-**Technologies:** React, TypeScript, JavaScript, React Router, Vue, WebSockets, SASS, Node.js, Koa.js, MongoDB, Web3
+**Technologies:** Node.js, TypeScript, Koa.js, MongoDB, React, Vue, WebSockets, SASS, Web3
 
 ## EDUCATION
 
