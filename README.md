@@ -1,4 +1,4 @@
-Senior Software Developer, **7+ years** experience
+Senior Software Engineer, **7+ years** experience
 
 [anikey.egor99@gmail.com](mailto:anikey.egor99@gmail.com)
 
